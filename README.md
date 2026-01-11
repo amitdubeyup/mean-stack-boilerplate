@@ -1,4 +1,4 @@
-# mean-app-boilerplate
+# mean-stack-boilerplate
 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -19,8 +19,8 @@ A boilerplate of mean-5 with bootstrap
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/mean-app-boilerplate.git
-cd mean-app-boilerplate
+git clone https://github.com/amitdubeyup/mean-stack-boilerplate.git
+cd mean-stack-boilerplate
 
 # Install dependencies
 npm install
@@ -50,7 +50,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-mean-app-boilerplate/
+mean-stack-boilerplate/
 ├── package.json
 ├── .env.example
 ├── README.md
